@@ -1,0 +1,9 @@
+Embed:
+#title font
+<link href="https://fonts.googleapis.com/css?family=Lato:700i&amp;subset=latin-ext" rel="stylesheet">
+
+#more variations of the font
+<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
+
+Css:
+font-family: 'Lato', sans-serif;
