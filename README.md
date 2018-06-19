@@ -11,10 +11,10 @@ The logo comes in 4 variations:
 * pylady, writing - square
 * writing
 
-![](green/pyladies-nwuk-writing-green.svg)
-![](green/pyladies-nwuk-whole-green.svg)
-![](green/pyladies-nwuk-writing-green.svg)
-![](green/pyladies-nwuk-writing-green.svg)
+![](green/pyladies-nwuk-writing-green.png)
+![](green/pyladies-nwuk-whole-green.png)
+![](green/pyladies-nwuk-nocompass-green.png)
+![](green/pyladies-nwuk-square-green.png)
 
 ## Colour schemes
 Each variation comes in 4 colours:
