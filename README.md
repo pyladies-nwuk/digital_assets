@@ -5,16 +5,18 @@ Digital assets collection for the PyLadies NorthWest UK chapter
 
 
 ## Logo
-The logo comes in 4 variations:
+The logo comes in 5 variations:
 * pylady, compass and writing - complex, square
 * pylady, writing
 * pylady, writing - square
 * writing
+* sticker - circle or square, compact
 
 <img src="green/pyladies-nwuk-writing-green.png" width="200px">
 <img src="green/pyladies-nwuk-whole-green.png" width="200px">
 <img src="green/pyladies-nwuk-nocompass-green.png" width="200px">
 <img src="green/pyladies-nwuk-square-green.png" width="200px">
+<img src="darkpink/pyladies-nwuk-circle-darkpink-tr-light.png" width="200px">
 
 ## Colour schemes
 Each variation comes in 4 colours:
